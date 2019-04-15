@@ -1,0 +1,19 @@
+discord.py[voice]
+aiodns
+aiofiles
+aioredis
+asyncpg
+async-timeout
+azure-storage
+brotli
+# google-cloud-vision
+gspread
+gspread_asyncio
+humanize
+numpy
+oauth2client
+opencv-python
+pytz
+requests
+uptime
+wavelink
