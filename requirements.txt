@@ -1,4 +1,4 @@
-discord.py[voice]>=1.2.0
+discord.py[voice]>=1.2.1
 aiodns
 aiofiles
 aioredis
