@@ -1,4 +1,4 @@
-discord.py[voice]>=1.2.1
+discord.py[voice]>=1.2.3
 aiodns
 aiofiles
 aioredis
@@ -10,9 +10,11 @@ brotli
 gspread
 gspread_asyncio
 humanize
+mem_top
 numpy
 oauth2client
 opencv-python
+pandas
 pytz
 requests
 uptime
