@@ -17,6 +17,7 @@ RUN apt -q update && apt-get -qq install -y \
     libc6-dev \
     libbz2-dev \
     zlib1g-dev \
+    liblzma-dev \
     openssl \
     libffi-dev \
     python3-dev \
