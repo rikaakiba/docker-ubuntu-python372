@@ -32,7 +32,7 @@ RUN apt -q update && apt-get -qq install -y \
     && mkdir /tmp/Python37
 WORKDIR /tmp/Python37
 RUN wget -q https://www.python.org/ftp/python/3.7.5/Python-3.7.5.tar.xz \
-    && tar xf Python-3.7.2.tar.xz
+    && tar xf Python-3.7.5.tar.xz
 WORKDIR /tmp/Python37/Python-3.7.5
 RUN ./configure --enable-optimizations > /dev/null 2>&1 \
     && make altinstall > /dev/null 2>&1
